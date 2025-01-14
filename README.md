@@ -9,7 +9,7 @@
 - 👨‍💻 Currently working on improving my projects and learning new technologies.
 - 💼 Exploring opportunities in **Full Stack Development**.
 - 🎯 **Major Project**: [Code Crew]([https://github.com/naveenprajapati2308 ](https://github.com/naveenprajapati2308/Codecrew) 
-  - A seamless restaurant management and food delivery application built using modern tools.
+  - A seamless coding platform  application built using modern tools.
 
 ---
 
@@ -25,6 +25,7 @@
 ## 🌟 Featured Projects:
 ### 1. [FoodAte](https://github.com/naveenprajapati2308/FoodAte)
 A dynamic food delivery platform connecting users to local restaurants using React and Express.
+A seamless restaurant management and food delivery application built using modern tools.
 
 ### 2. [TweetPrediction](https://github.com/naveenprajapati2308/TweetPrediction)
 A Chrome extension that predicts the latest trends based on tweets.
