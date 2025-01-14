@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi there! I'm Naveen Prajapati
 
-<!--
-**naveenprajapati2308/naveenprajapati2308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer (MERN)**  
+🌟 Passionate about creating scalable and dynamic web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- 👨‍💻 Currently working on improving my projects and learning new technologies.
+- 💼 Exploring opportunities in **Full Stack Development**.
+- 🎯 **Major Project**: [Cafetune](https://github.com/naveenprajapati2308/Cafetune)  
+  - A seamless restaurant management and food delivery application built using modern tools.
+
+---
+
+## 💻 Tech Stack:
+- **Languages:** JavaScript, TypeScript, Python
+- **Frontend:** React, HTML, CSS, Bootstrap
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, MySQL
+- **Tools:** Git, Postman, VS Code
+
+---
+
+## 🌟 Featured Projects:
+### 1. [FoodAte](https://github.com/naveenprajapati2308/FoodAte)
+A dynamic food delivery platform connecting users to local restaurants using React and Express.
+
+### 2. [TweetPrediction](https://github.com/naveenprajapati2308/TweetPrediction)
+A Chrome extension that predicts the latest trends based on tweets.
+
+### 3. [Cafetune](https://github.com/naveenprajapati2308/Cafetune)
+A complete restaurant management platform. (Major Project)
+
+---
+
+## 📈 GitHub Stats:
+![Naveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveenprajapati2308&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Connect With Me:
+- 📧 Email: naveenprajapati2308@example.com
+- 
+- 💼 [LinkedIn](https://linkedin.com/in/naveenprajapati2308)
+
+---
+
+✨ *"Coding is not just a skill, it's a journey of endless possibilities."*  
