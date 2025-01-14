@@ -8,13 +8,13 @@
 ## 🔥 About Me
 - 👨‍💻 Currently working on improving my projects and learning new technologies.
 - 💼 Exploring opportunities in **Full Stack Development**.
-- 🎯 **Major Project**: [Cafetune](https://github.com/naveenprajapati2308/Cafetune)  
+- 🎯 **Major Project**: [Code Crew]([https://github.com/naveenprajapati2308 ](https://github.com/naveenprajapati2308/Codecrew) 
   - A seamless restaurant management and food delivery application built using modern tools.
 
 ---
 
 ## 💻 Tech Stack:
-- **Languages:** JavaScript, TypeScript, Python
+- **Languages:**Java JavaScript, Python,
 - **Frontend:** React, HTML, CSS, Bootstrap
 - **Backend:** Node.js, Express.js
 - **Databases:** MongoDB, MySQL
